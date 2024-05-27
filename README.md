@@ -1,5 +1,5 @@
 # Simple Contract in solidity
-A simple contract in remix comiler for solidity
+A simple contract  using remix comiler in solidity
 
 ## Description
 
